@@ -38,7 +38,7 @@ int main()
     while (n--)
     {
         string command;
-        cin >> command; // You were missing this line to read the command.
+        cin >> command; 
 
         if (command == "enqueue")
         {
